@@ -1,0 +1,47 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "components/WhyChooseSection.jsx",
+    "components/HeroSection.jsx",
+    "components/Navigation.jsx",
+    "components/ServicesSection.jsx",
+    "components/ServiceModal.jsx",
+    "app/layout.jsx",
+    "app/page.jsx",
+    "app/commercial-security/page.jsx",
+    "app/about/page.jsx",
+    "app/contact/page.jsx",
+    "app/cyber-security/page.jsx",
+    "app/fire-protection/page.jsx",
+    "components/CTASection.jsx",
+    "app/privacy/page.jsx",
+    "app/terms/page.jsx"
+  ],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,29 @@
+RewriteEngine On
+
+# Force HTTPS + non-www
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://deltacomsecurity.com%{REQUEST_URI} [L,R=301]
+
+# Remove index.php
+RewriteCond %{THE_REQUEST} \s/index\.php [NC]
+RewriteRule ^index\.php$ https://deltacomsecurity.com/ [L,R=301]
+
+# Old URL fixes
+RewriteRule ^home/?$ / [L,R=301]
+RewriteRule ^services\.html/?$ /services/ [L,R=301]
+RewriteRule ^contact-us\.html/?$ /contact/ [L,R=301]
+RewriteRule ^contact-us/?$ /contact/ [L,R=301]
+RewriteRule ^fire-protection(\.html|\.php)?/?$ /fire-protection/ [L,R=301]
+RewriteRule ^fireprotection/?$ /fire-protection/ [L,R=301]
+
+# REDIRECT OLD URLS TO NEW ONES
+RewriteRule ^commercial/?$ /commercial-security/ [L,R=301]
+# TEMPORARILY HIDDEN - Cybersecurity page disabled (redirect target removed)
+# RewriteRule ^cybersecurity/?$ /cyber-security/ [L,R=301]
+RewriteRule ^fire/?$ /fire-protection/ [L,R=301]
+
+# Block sensitive files
+<FilesMatch "\.(env|log|ini|bak|sql)$">
+  Require all denied
+</FilesMatch>

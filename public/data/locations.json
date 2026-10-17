@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "slug": "commercial-security-systems-washington-dc",
+      "city": "Washington",
+      "state": "DC",
+      "seoTitle": "Commercial Security in Washington, DC | Deltacom",
+      "seoDescription": "Deltacom Security designs commercial access control and video surveillance for Washington, DC offices and government facilities. Request a security assessment.",
+      "intro": "Deltacom Security designs commercial security systems for Washington, DC offices, government environments, institutions, construction sites and multi-tenant properties. Solutions can combine controlled entry, surveillance, intercom, intrusion detection and network infrastructure while respecting the operational and cybersecurity requirements of each facility.",
+      "localContent": "DC projects frequently require careful coordination with property management, IT teams, building engineers and other trades. Deltacom provides a structured approach from assessment and design through installation, testing, training and ongoing service.",
+      "heroImage": "https://images.unsplash.com/photo-1617541656284-ed2119be6407?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "slug": "commercial-security-systems-fairfax-va",
+      "city": "Fairfax",
+      "state": "VA",
+      "seoTitle": "Commercial Security in Fairfax, VA | Deltacom",
+      "seoDescription": "Deltacom Security protects Fairfax, VA businesses with access control, video surveillance and alarm monitoring. Schedule a commercial security consultation.",
+      "intro": "Deltacom Security serves Fairfax businesses, government contractors, healthcare facilities, professional offices and multi-site organizations with integrated commercial security systems. Our Fairfax-based team designs access control, video surveillance, alarm monitoring and network infrastructure around the building's operations, IT standards and long-term expansion plans.",
+      "localContent": "Fairfax properties often combine occupied offices, shared entrances, parking areas and restricted spaces. We help organizations centralize those systems, improve visibility across the facility and maintain dependable support from a local security integrator with nationwide deployment capability.",
+      "heroImage": "https://images.unsplash.com/photo-1576402187878-974f70c890a5?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "slug": "commercial-security-systems-arlington-va",
+      "city": "Arlington",
+      "state": "VA",
+      "seoTitle": "Commercial Security in Arlington, VA | Deltacom",
+      "seoDescription": "Deltacom Security installs video surveillance, access control and network infrastructure for Arlington, VA businesses. Request a site assessment.",
+      "intro": "Deltacom Security supports Arlington's commercial offices, mixed-use properties, associations, healthcare facilities and government-related organizations with scalable physical security and network infrastructure. We design systems that help teams manage doors, credentials, cameras and alerts without adding unnecessary complexity.",
+      "localContent": "For Arlington facilities with multiple tenants, shared parking or restricted operational areas, Deltacom can integrate access control, video surveillance and intercom functions into a centralized security environment supported by responsive regional service.",
+      "heroImage": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "slug": "commercial-security-systems-alexandria-va",
+      "city": "Alexandria",
+      "state": "VA",
+      "seoTitle": "Commercial Security in Alexandria, VA | Deltacom",
+      "seoDescription": "Deltacom Security provides access control, surveillance and maintenance for Alexandria, VA commercial properties. Talk with a security specialist.",
+      "intro": "Deltacom Security provides commercial security solutions for Alexandria offices, historic properties, hospitality facilities, retail locations, associations and multi-family communities. Each system is planned around the property's architecture, daily traffic, security risks and technology requirements.",
+      "localContent": "Our team can modernize aging access control and surveillance systems while preserving compatible infrastructure where practical. We also coordinate video, intercom, intrusion and network components to give authorized personnel clearer control of the facility.",
+      "heroImage": "https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "slug": "commercial-security-systems-woodbridge-va",
+      "city": "Woodbridge",
+      "state": "VA",
+      "seoTitle": "Commercial Security in Woodbridge, VA | Deltacom",
+      "seoDescription": "Deltacom Security secures Woodbridge, VA retail, warehouse and office sites with video surveillance and access control. Request a commercial assessment.",
+      "intro": "Deltacom Security protects Woodbridge warehouses, distribution facilities, retail centers, offices, healthcare locations and property-management portfolios. We design commercial systems that address employee and visitor entry, loading areas, parking lots, inventory protection and remote management.",
+      "localContent": "Woodbridge organizations can use Deltacom for access control, surveillance, alarms, structured cabling and ongoing service under one coordinated security program. Solutions are designed to scale from a single building to multiple locations.",
+      "heroImage": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&q=80&w=1200"
+    },
+    {
+      "slug": "commercial-security-systems-tysons-va",
+      "city": "Tysons",
+      "state": "VA",
+      "seoTitle": "Commercial Security in Tysons, VA | Deltacom",
+      "seoDescription": "Deltacom Security integrates access control, cloud video and IT security for Tysons, VA corporate facilities. Schedule a commercial security review.",
+      "intro": "Deltacom Security delivers enterprise-focused security for Tysons corporate offices, headquarters, technology companies, commercial properties and high-traffic retail environments. We integrate access control, cloud video, intercom, intrusion detection and network infrastructure around the needs of security, facilities and IT teams.",
+      "localContent": "For organizations managing multiple floors, buildings or locations, Deltacom can provide centralized administration and a single-pane-of-glass approach while maintaining local device operation and a practical path for future expansion.",
+      "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200"
+    }
+  ]
+}

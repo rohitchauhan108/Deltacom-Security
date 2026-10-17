@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Force HTTPS and the canonical non-www host.
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.deltacomsecurity\.com$ [NC]
+RewriteRule ^ https://deltacomsecurity.com%{REQUEST_URI} [R=301,L]
