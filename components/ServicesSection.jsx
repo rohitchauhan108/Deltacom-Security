@@ -22,7 +22,7 @@ const SERVICES_DATA = [
     description:
       "Advanced cloud and on-premise solutions with smart analytics and triple redundancy.",
     icon: Cctv,
-    backgroundImage: "/images/services/camera2.jpg",
+    backgroundImage: "/images/services/camera2.webp",
   },
   {
     id: "access-control",
@@ -32,7 +32,7 @@ const SERVICES_DATA = [
     description:
       "Technology-neutral, cloud-first access systems supporting Axis, YourSixOS, Brivo, DSX, Rhombus, Verkada, PDK, Schlage, HID, and proprietary platforms.",
     icon: Key,
-    backgroundImage: "/images/services/access.jpg",
+    backgroundImage: "/images/services/access.webp",
   },
   // TEMPORARILY HIDDEN - Cybersecurity page disabled
   // {
@@ -43,7 +43,7 @@ const SERVICES_DATA = [
   //   description:
   //     "Enterprise cybersecurity, compliance and readiness services to support Department of Defense contractors and subcontractors.",
   //   icon: Shield,
-  //   backgroundImage: "/images/newImags/image1.png",
+  //   backgroundImage: "/images/newImags/image1.webp",
   // },
   {
     id: "fire-protection",
@@ -53,7 +53,7 @@ const SERVICES_DATA = [
     description:
       "Critical Intrusion & Fire Protection with rapid response - fire doubles in size every minute.",
     icon: BellElectric,
-    backgroundImage: "/images/services/fire.jpg",
+    backgroundImage: "/images/services/fire.webp",
   },
   {
     id: "networking",
@@ -63,7 +63,7 @@ const SERVICES_DATA = [
     description:
       "Complete network design and deployment for wired and wireless networks across all sites.",
     icon: Network,
-    backgroundImage: "/images/services/networking-background.png",
+    backgroundImage: "/images/services/networking-background.webp",
   },
   {
     id: "mobile-surveillance",
@@ -73,7 +73,7 @@ const SERVICES_DATA = [
     description:
       "Rapid deployment systems for temporary installations and high-risk environments.",
     icon: Truck,
-    backgroundImage: "/images/services/surv.jpg",
+    backgroundImage: "/images/services/surv.webp",
   },
 ];
 

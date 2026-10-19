@@ -37,7 +37,7 @@ const WhyChooseSection = () => {
         "Tailored security systems designed specifically for your unique business requirements.",
       highlight: "No one-size-fits-all",
       gradient: "from-blue-500 via-blue-600 to-indigo-600",
-      image: "/images/newImags/image3.png",
+      image: "/images/newImags/image3.webp",
     },
     {
       icon: Zap,
@@ -46,7 +46,7 @@ const WhyChooseSection = () => {
         "Efficient installation processes that minimize downtime and keep operations running.",
       highlight: "Average 2-day setup",
       gradient: "from-emerald-500 via-teal-600 to-cyan-600",
-      image: "/images/whyChooseUs/2.png",
+      image: "/images/whyChooseUs/2.webp",
     },
     {
       icon: Award,
@@ -55,7 +55,7 @@ const WhyChooseSection = () => {
         "Washington, DC Metro expertise with enterprise-grade security technology.",
       highlight: "Providing Commercial Security Solutions Since 2017",
       gradient: "from-purple-500 via-violet-600 to-purple-600",
-      image: "/images/whyChooseUs/3.png",
+      image: "/images/whyChooseUs/3.webp",
     },
     {
       icon: Headphones,
@@ -64,7 +64,7 @@ const WhyChooseSection = () => {
         "Round-the-clock technical support and monitoring for optimal performance.",
       highlight: "Rapid technical assistance",
       gradient: "from-orange-500 via-red-500 to-pink-600",
-      image: "/images/whyChooseUs/4.png",
+      image: "/images/whyChooseUs/4.webp",
     },
     {
       icon: Users,
@@ -73,7 +73,7 @@ const WhyChooseSection = () => {
         "Proven track record with government agencies and large enterprises.",
       highlight: "Enterprise-grade experience",
       gradient: "from-rose-500 via-pink-600 to-rose-600",
-      image: "/images/whyChooseUs/5.png",
+      image: "/images/whyChooseUs/5.webp",
     },
     {
       icon: Shield,
@@ -82,7 +82,7 @@ const WhyChooseSection = () => {
         "Latest security innovations with AI analytics and smart automation.",
       highlight: "AI-powered detection",
       gradient: "from-cyan-500 via-blue-600 to-indigo-600",
-      image: "/images/whyChooseUs/6.png",
+      image: "/images/whyChooseUs/6.webp",
     },
   ];
 

@@ -18,7 +18,7 @@ export const metadata = {
     siteName: 'Deltacom Security',
     images: [
       {
-        url: `${siteUrl}/images/contact/conatct.jpg`,
+        url: `${siteUrl}/images/contact/conatct.webp`,
         width: 1200,
         height: 630,
         alt: 'Contact Deltacom Security for a security assessment',

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Image from "next/image";
-import HeroImage from "@/public/images/commercial/HeroSectionIMage.jpg";
+import HeroImage from "@/public/images/commercial/HeroSectionIMage.webp";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react"; // ensure you're using lucide icons
 import gsap from "gsap";

@@ -16,7 +16,7 @@ export const metadata = {
     title: 'Mobile Surveillance Trailers | Construction Security | Deltacom Security',
     description,
     siteName: 'Deltacom Security',
-    images: [{ url: `${siteUrl}/images/services/mobile-surveillance-background.jpg`, width: 1200, height: 630, alt: 'Deltacom Security mobile surveillance trailers' }],
+    images: [{ url: `${siteUrl}/images/services/mobile-surveillance-background.webp`, width: 1200, height: 630, alt: 'Deltacom Security mobile surveillance trailers' }],
   },
 };
 

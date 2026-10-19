@@ -25,7 +25,7 @@ export const metadata = {
     siteName: 'Deltacom Security',
     images: [
       {
-        url: `${siteUrl}/images/commercial/HeroSectionIMage.jpg`,
+        url: `${siteUrl}/images/commercial/HeroSectionIMage.webp`,
         width: 1200,
         height: 630,
         alt: 'Deltacom Security Commercial Security Solutions - Business Protection Systems',
@@ -36,7 +36,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Commercial Security Solutions | DC Metro | Deltacom Security',
     description: 'Integrated security systems for DC Metro businesses, including surveillance, access control, alarms, and technology to protect property and employees.',
-    images: [`${siteUrl}/images/commercial/HeroSectionIMage.jpg`],
+    images: [`${siteUrl}/images/commercial/HeroSectionIMage.webp`],
     creator: '@deltacomsecurity',
     site: '@deltacomsecurity',
   },

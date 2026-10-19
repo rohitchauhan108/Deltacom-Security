@@ -29,7 +29,7 @@ export const metadata = {
     siteName: 'Deltacom Security',
     images: [
       {
-        url: `${siteUrl}/images/services/networking-background.png`,
+        url: `${siteUrl}/images/services/networking-background.webp`,
         width: 1200,
         height: 630,
         alt: 'Deltacom Security Networking Solutions - Infrastructure & Connectivity',
@@ -42,7 +42,7 @@ export const metadata = {
     title: 'Networking Solutions | DC Metro | Deltacom Security',
     description:
       'Complete network design, deployment, and maintenance for wired and wireless networks.',
-    images: [`${siteUrl}/images/services/networking-background.png`],
+    images: [`${siteUrl}/images/services/networking-background.webp`],
     creator: '@deltacomsecurity',
     site: '@deltacomsecurity',
   },

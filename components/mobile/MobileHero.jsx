@@ -6,7 +6,7 @@ import Link from "next/link";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Shield, ArrowRight } from "lucide-react";
-import HeroImage from "@/public/images/services/mobile-surveillance-background.jpg";
+import HeroImage from "@/public/images/services/mobile-surveillance-background.webp";
 
 gsap.registerPlugin(ScrollTrigger);
 

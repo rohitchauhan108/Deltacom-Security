@@ -22,7 +22,7 @@ export const metadata = {
     siteName: "Deltacom Security",
     images: [
       {
-        url: `${siteUrl}/images/services/camers3.jpg`,
+        url: `${siteUrl}/images/services/camers3.webp`,
         width: 1200,
         height: 630,
         alt: "Deltacom Security Video Surveillance Solutions - CCTV Systems",
@@ -35,7 +35,7 @@ export const metadata = {
     title: "Commercial Video Surveillance | DC Metro | Deltacom Security",
     description:
       "Advanced cloud and on-premise video surveillance solutions with smart analytics and triple redundancy.",
-    images: [`${siteUrl}/images/services/camers3.jpg`],
+    images: [`${siteUrl}/images/services/camers3.webp`],
     creator: "@deltacomsecurity",
     site: "@deltacomsecurity",
   },

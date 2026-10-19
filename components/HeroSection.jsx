@@ -74,7 +74,7 @@ export default function HeroSection() {
       {/* Single hero background avoids loading hidden carousel slides. */}
       <div
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/hero/7.jpg')" }}
+        style={{ backgroundImage: "url('/images/hero/7.webp')" }}
         aria-hidden="true"
       />
 

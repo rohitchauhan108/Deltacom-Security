@@ -23,7 +23,7 @@ export const metadata = {
     siteName: "Deltacom Security",
     images: [
       {
-        url: `${siteUrl}/images/about/HeroImage.jpg`,
+        url: `${siteUrl}/images/about/HeroImage.webp`,
         width: 1200,
         height: 630,
         alt: "About Deltacom Security - Mission and Vision for Security & IT Solutions",
@@ -37,7 +37,7 @@ export const metadata = {
     title: "About Deltacom Security | Smart Security & IT Solutions",
     description:
       "Learn how Deltacom Security protects people, property, and operations with smart security and IT solutions.",
-    images: [`${siteUrl}/images/about/HeroImage.jpg`],
+    images: [`${siteUrl}/images/about/HeroImage.webp`],
     creator: "@deltacomsecurity",
     site: "@deltacomsecurity",
   },

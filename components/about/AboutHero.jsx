@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import HeroSectionImage from "@/public/images/about/HeroImage.jpg";
+import HeroSectionImage from "@/public/images/about/HeroImage.webp";
 import Image from "next/image";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -47,6 +47,7 @@ const AboutHero = () => {
         <Image
           src={HeroSectionImage}
           alt="Deltacom Security commercial security team"
+          // loading="lazy"
           fill
           sizes="100vw"
           className="w-full h-full object-cover"

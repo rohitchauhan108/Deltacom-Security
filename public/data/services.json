@@ -9,11 +9,11 @@
       "shortDescription": "24/7 monitoring with AI-powered analytics",
       "accent": "from-blue-400 to-blue-600",
       "icon": "Cctv",
-      "heroImage": "/images/services/camers3.jpg",
+      "heroImage": "/images/services/camers3.webp",
       "gallery": [
-        "/images/services/cctv1.jpg",
-        "/images/services/cctv2.jpg",
-        "/images/services/cctv3.jpg"
+        "/images/services/cctv1.webp",
+        "/images/services/cctv2.webp",
+        "/images/services/cctv3.webp"
       ],
       "features": [
         {
@@ -80,10 +80,10 @@
       "shortDescription": "Control who enters your facility with precision",
       "accent": "from-emerald-400 to-emerald-600",
       "icon": "Key",
-      "heroImage": "/images/serv.jpg",
+      "heroImage": "/images/serv.webp",
       "gallery": [
-        "/images/services/access-1.jpg",
-        "/images/services/access-2.jpg"
+        "/images/services/access-1.webp",
+        "/images/services/access-2.webp"
      
       ],
       "features": [
@@ -151,10 +151,10 @@
       "shortDescription": "Protect your digital assets with enterprise-grade security",
       "accent": "from-purple-400 to-purple-600",
       "icon": "Shield",
-      "heroImage": "/images/services/cybersecurity-background.png",
+      "heroImage": "/images/services/cybersecurity-background.webp",
       "gallery": [
-        "/images/services/cyber-1.jpg",
-        "/images/services/cyber-2.jpg"
+        "/images/services/cyber-1.webp",
+        "/images/services/cyber-2.webp"
        
       ],
       "features": [
@@ -222,10 +222,10 @@
       "shortDescription": "Rapid fire detection and suppression systems",
       "accent": "from-red-400 to-red-600",
       "icon": "Flame",
-      "heroImage": "/images/services/fire-protection-background.png",
+      "heroImage": "/images/services/fire-protection-background.webp",
       "gallery": [
         "/images/fire/1.webp",
-        "/images/fire/2.jpg"
+        "/images/fire/2.webp"
       ],
       "features": [
         {
@@ -292,10 +292,10 @@
       "shortDescription": "Robust network infrastructure for seamless connectivity",
       "accent": "from-cyan-400 to-cyan-600",
       "icon": "Network",
-      "heroImage": "/images/services/networking-background.png",
+      "heroImage": "/images/services/networking-background.webp",
       "gallery": [
-        "/images/services/network-1.jpg",
-        "/images/services/network-2.jpg"
+        "/images/services/network-1.webp",
+        "/images/services/network-2.webp"
       ],
       "features": [ 
         {
@@ -362,10 +362,10 @@
       "shortDescription": "Portable security solutions for any location",
       "accent": "from-orange-400 to-orange-600",
       "icon": "Truck",
-      "heroImage": "/images/mobile.jpg",
+      "heroImage": "/images/mobile.webp",
       "gallery": [
-        "/images/services/mobile-1.jpg",
-        "/images/services/mobile-2.jpg"
+        "/images/services/mobile-1.webp",
+        "/images/services/mobile-2.webp"
       ],
       "features": [
         {

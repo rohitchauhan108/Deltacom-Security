@@ -8,7 +8,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ShieldCheck, Cpu, Video, Sun, Radio } from "lucide-react";
 
 // Import your desired image here
-import AboutImage from "@/public/images/newImags/image2.png";
+import AboutImage from "@/public/images/newImags/image2.webp";
 
 gsap.registerPlugin(ScrollTrigger);
 

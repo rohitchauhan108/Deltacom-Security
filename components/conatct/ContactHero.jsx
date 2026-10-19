@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Image from "next/image";
-import HeroImage from "../../public/images/contact/conatct.jpg";
+import HeroImage from "../../public/images/contact/conatct.webp";
 import { Shield } from "lucide-react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";

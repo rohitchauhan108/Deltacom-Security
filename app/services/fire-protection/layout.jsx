@@ -27,7 +27,7 @@ export const metadata = {
     siteName: 'Deltacom Security',
     images: [
       {
-        url: `${siteUrl}/images/fire/2.jpg`,
+        url: `${siteUrl}/images/fire/2.webp`,
         width: 1200,
         height: 630,
         alt: 'Deltacom Security fire protection systems - complete fire safety solutions',
@@ -38,7 +38,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Commercial Fire Protection Systems | DC Metro | Deltacom Security',
     description: 'Commercial fire alarms, detection, suppression, and emergency response systems for DC Metro businesses from Deltacom Security.',
-    images: [`${siteUrl}/images/fire/2.jpg`],
+    images: [`${siteUrl}/images/fire/2.webp`],
     creator: '@deltacomsecurity',
     site: '@deltacomsecurity',
   },

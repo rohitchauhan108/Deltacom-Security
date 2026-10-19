@@ -43,7 +43,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Deltacom Security',
       images: [
         {
-          url: '/images/hero/1.jpg',
+          url: '/images/hero/1.webp',
           width: 1200,
           height: 630,
           alt: `Deltacom Security services in ${location.city}, ${location.state}`,
@@ -54,7 +54,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: location.seoTitle,
       description: location.seoDescription,
-      images: ['https://deltacomsecurity.com/images/hero/1.jpg'],
+      images: ['https://deltacomsecurity.com/images/hero/1.webp'],
     },
   };
 }

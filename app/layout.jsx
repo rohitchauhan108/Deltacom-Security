@@ -44,7 +44,7 @@ export const metadata = {
     siteName: 'Deltacom Security',
     images: [
       {
-        url: 'https://deltacomsecurity.com/images/hero/1.jpg',
+        url: 'https://deltacomsecurity.com/images/hero/1.webp',
         width: 1200,
         height: 630,
         alt: 'Deltacom Security commercial security systems',
@@ -55,7 +55,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Commercial Security Systems in Washington, DC | Deltacom',
     description: 'Protect your business with Deltacom commercial security systems, CCTV, access control, fire protection and 24/7 monitoring. Request a quote today in DC Metro.',
-    images: ['https://deltacomsecurity.com/images/hero/1.jpg'],
+    images: ['https://deltacomsecurity.com/images/hero/1.webp'],
   },
   alternates: {
     canonical: 'https://deltacomsecurity.com/',

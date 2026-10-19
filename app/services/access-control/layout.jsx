@@ -29,7 +29,7 @@ export const metadata = {
     siteName: "Deltacom Security",
     images: [
       {
-        url: `${siteUrl}/images/serv.jpg`,
+        url: `${siteUrl}/images/serv.webp`,
         width: 1200,
         height: 630,
         alt: "Deltacom Security - Commercial Access Control Systems",
@@ -42,7 +42,7 @@ export const metadata = {
     title: "Commercial Access Control Systems | VA, DC & MD | Deltacom",
     description:
       "Deltacom installs commercial access control systems across Virginia, DC and Maryland - integrating access control, video and intercom. Call 703-345-1012.",
-    images: [`${siteUrl}/images/serv.jpg`],
+    images: [`${siteUrl}/images/serv.webp`],
     creator: "@deltacomsecurity",
     site: "@deltacomsecurity",
   },

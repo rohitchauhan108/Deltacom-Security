@@ -4,7 +4,7 @@ import Link from "next/link";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { AlertTriangle, ArrowRight } from "lucide-react";
-import HeroImage from "../../public/images/newImags/image2.png";
+import HeroImage from "../../public/images/newImags/image2.webp";
 
 gsap.registerPlugin(ScrollTrigger);
 

@@ -209,7 +209,7 @@ const SEOSections = () => {
               <div className="absolute -inset-4 bg-gradient-to-tr from-blue-600/20 to-transparent rounded-[2.5rem] -z-10 blur-2xl" />
               <div className="relative rounded-[2rem] overflow-hidden shadow-2xl border-8 border-white">
                 <Image 
-                  src="/images/commercial/HeroSectionIMage.jpg" 
+                  src="/images/commercial/HeroSectionIMage.webp" 
                   alt="Commercial Security Systems" 
                   width={800} 
                   height={600}

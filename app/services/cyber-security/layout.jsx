@@ -18,7 +18,7 @@ export const metadata = {
     title: 'Commercial Cybersecurity Services | DC Metro | Deltacom Security',
     description,
     siteName: 'Deltacom Security',
-    images: [{ url: `${siteUrl}/images/cyber/banner.jpg`, width: 1200, height: 630, alt: 'Deltacom Security cybersecurity services' }],
+    images: [{ url: `${siteUrl}/images/cyber/banner.webp`, width: 1200, height: 630, alt: 'Deltacom Security cybersecurity services' }],
   },
 };
 
