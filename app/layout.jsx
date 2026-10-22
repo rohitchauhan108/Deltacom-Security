@@ -61,9 +61,9 @@ export const metadata = {
     canonical: 'https://deltacomsecurity.com/',
   },
   icons: {
-    icon: '/images/favicon.png',
-    shortcut: '/images/favicon.png',
-    apple: '/images/favicon.png',
+    icon: '/images/fav-icon.webp',
+    shortcut: '/images/fav-icon.webp',
+    apple: '/images/fav-icon.webp',
   },
 };
 

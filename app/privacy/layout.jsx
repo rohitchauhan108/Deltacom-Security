@@ -14,7 +14,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: `${siteUrl}/images/logo.png`,
+        url: `${siteUrl}/images/new-logo.webp`,
         width: 1200,
         height: 630,
         alt: "Deltacom Security Privacy Policy",

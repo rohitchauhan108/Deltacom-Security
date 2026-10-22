@@ -80,17 +80,17 @@ const SEOSections = () => {
   }, []);
 
   const vendors = [
-    { name: 'Axis Communications', logo: '/images/partners-logos/axis.png' },
+    { name: 'Axis Communications', logo: '/images/partners-logos/axis.webp' },
     { name: 'YourSixOS', logo: null },
-    { name: 'Brivo', logo: '/images/partners-logos/Brivo.svg' },
-    { name: 'DSX', logo: '/images/partners-logos/dsx.png' },
-    { name: 'Verkada', logo: '/images/partners-logos/verkada.png' },
-    { name: 'Rhombus', logo: '/images/partners-logos/rhombus.svg' },
-    { name: 'Eagle Eye Networks', logo: '/images/partners-logos/eagle-eye-networks.png' },
-    { name: 'Honeywell', logo: '/images/partners-logos/honeywell.svg' },
-    { name: 'PDK', logo: '/images/partners-logos/pdk.svg' },
+    { name: 'Brivo', logo: '/images/partners-logos/Brivo.webp' },
+    { name: 'DSX', logo: '/images/partners-logos/dsx.webp' },
+    { name: 'Verkada', logo: '/images/partners-logos/verkada.webp' },
+    { name: 'Rhombus', logo: '/images/partners-logos/rhombus.webp' },
+    { name: 'Eagle Eye Networks', logo: '/images/partners-logos/eagle-eye-networks.webp' },
+    { name: 'Honeywell', logo: '/images/partners-logos/honeywell.webp' },
+    { name: 'PDK', logo: '/images/partners-logos/pdk.webp' },
     { name: 'Schlage', logo: null },
-    { name: 'HID Global', logo : '/images/partners-logos/hid.png' }
+    { name: 'HID Global', logo : '/images/partners-logos/hid.webp' }
   ];
 
   const industries = [

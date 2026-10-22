@@ -134,7 +134,7 @@ const Navigation = () => {
         <div className="max-w-[1800px] mx-auto flex items-center justify-between py-4 px-4 lg:px-6">
           <Link href="/" className="flex items-center gap-2 group shrink-0">
             <div className="flex items-center justify-center rounded-xl transition-all duration-300 group-hover:scale-105">
-              <Image height={64} width={128} src="/images/logo.png" alt="Deltacom Security Logo" className="object-contain h-12 w-auto" />
+              <Image height={64} width={128} src="/images/new-logo.webp" alt="Deltacom Security Logo" className="object-contain h-12 w-auto" />
             </div>
           </Link>
 
