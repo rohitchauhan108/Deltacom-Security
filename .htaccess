@@ -23,6 +23,9 @@ RewriteRule ^commercial/?$ /commercial-security/ [L,R=301]
 # RewriteRule ^cybersecurity/?$ /cyber-security/ [L,R=301]
 RewriteRule ^fire/?$ /fire-protection/ [L,R=301]
 
+# Branded 404 page (Next.js static export outputs /404.html)
+ErrorDocument 404 /404.html
+
 # Block sensitive files
 <FilesMatch "\.(env|log|ini|bak|sql)$">
   Require all denied

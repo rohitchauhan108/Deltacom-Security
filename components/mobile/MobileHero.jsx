@@ -39,7 +39,7 @@ const MobileHero = () => {
       <div className="absolute inset-0">
         <Image
           src={HeroImage}
-          alt="Mobile Surveillance Trailers Construction Site Security"
+          alt=""
           fill
           priority
           sizes="100vw"

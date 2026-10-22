@@ -41,7 +41,7 @@ const ContactHero = () => {
       <div className="absolute inset-0">
         <Image
           src={HeroImage}
-          alt="Security consultation with a Deltacom Security professional"
+          alt=""
           fill
           sizes="100vw"
           className="w-full h-full object-cover"

@@ -43,7 +43,7 @@ const CommercialHero = () => {
       <div className="absolute inset-0">
         <Image
           src={HeroImage}
-          alt="Commercial security systems protecting a business"
+          alt=""
           fill
           sizes="100vw"
           className="w-full h-full object-cover"

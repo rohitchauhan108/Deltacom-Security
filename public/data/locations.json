@@ -8,7 +8,60 @@
       "seoDescription": "Deltacom Security designs commercial access control and video surveillance for Washington, DC offices and government facilities. Request a security assessment.",
       "intro": "Deltacom Security designs commercial security systems for Washington, DC offices, government environments, institutions, construction sites and multi-tenant properties. Solutions can combine controlled entry, surveillance, intercom, intrusion detection and network infrastructure while respecting the operational and cybersecurity requirements of each facility.",
       "localContent": "DC projects frequently require careful coordination with property management, IT teams, building engineers and other trades. Deltacom provides a structured approach from assessment and design through installation, testing, training and ongoing service.",
-      "heroImage": "https://images.unsplash.com/photo-1617541656284-ed2119be6407?auto=format&fit=crop&q=80&w=1200"
+      "heroImage": "https://images.unsplash.com/photo-1617541656284-ed2119be6407?auto=format&fit=crop&q=80&w=1200",
+      "cardDescriptions": {
+        "access": "Credentialed door control for multi-tenant DC offices and government facilities, with audit-ready entry records.",
+        "video": "Interior and perimeter camera coverage for DC buildings, with retention set to your policy.",
+        "intrusion": "Alarm and intrusion detection for DC sites, including after-hours monitoring and response coordination.",
+        "cloud": "Cloud video management that lets DC property and security teams review footage from any location.",
+        "intercom": "Video intercom and entry control for DC lobbies, loading areas and shared tenant entrances.",
+        "cabling": "Structured cabling and network work that supports security devices across DC facilities.",
+        "monitoring": "Alarm monitoring and managed service for DC commercial sites, with a single point of contact."
+      },
+      "industries": [
+        "Federal & Government Agencies",
+        "Government Contractors",
+        "Multi-Tenant Office Buildings",
+        "Associations & Nonprofits",
+        "Law Firms",
+        "Healthcare Providers",
+        "Education & Institutions",
+        "Building Management"
+      ],
+      "whyChoose": [
+        "Experience coordinating with building management and IT across multi-tenant DC offices",
+        "Systems designed around federal and government facility requirements",
+        "Documented design, testing and turnover for complex environments",
+        "Credential and visitor workflows that scale across floors and tenants",
+        "Non-proprietary platforms that avoid vendor lock-in",
+        "24/7 monitoring with responsive local support"
+      ],
+      "faqs": [
+        {
+          "q": "Do you work in multi-tenant Washington, DC office buildings?",
+          "a": "Yes. We coordinate with building management, security and IT teams so systems fit both base-building rules and individual tenant requirements."
+        },
+        {
+          "q": "Can you support government and federal facility environments?",
+          "a": "We design access control, video and intrusion detection for government-related sites, working within the documentation and coordination those projects require."
+        },
+        {
+          "q": "How do you handle permits and building approvals in DC?",
+          "a": "We prepare the drawings and submittals needed for review and schedule the work around the building and other trades."
+        },
+        {
+          "q": "Can you manage credentials for visitors and contractors?",
+          "a": "Yes. We set up employee, visitor and contractor credentials with permissions and audit trails that match your policies."
+        },
+        {
+          "q": "Do you offer monitoring for after-hours coverage?",
+          "a": "We provide 24/7 monitoring for intrusion and alarm systems, with escalation to your team or the appropriate responder."
+        },
+        {
+          "q": "Can you integrate with our existing network and IT systems?",
+          "a": "Yes. We handle structured cabling and network requirements and favor open platforms that integrate with your existing infrastructure."
+        }
+      ]
     },
     {
       "slug": "commercial-security-systems-fairfax-va",
@@ -18,7 +71,60 @@
       "seoDescription": "Deltacom Security protects Fairfax, VA businesses with access control, video surveillance and alarm monitoring. Schedule a commercial security consultation.",
       "intro": "Deltacom Security serves Fairfax businesses, government contractors, healthcare facilities, professional offices and multi-site organizations with integrated commercial security systems. Our Fairfax-based team designs access control, video surveillance, alarm monitoring and network infrastructure around the building's operations, IT standards and long-term expansion plans.",
       "localContent": "Fairfax properties often combine occupied offices, shared entrances, parking areas and restricted spaces. We help organizations centralize those systems, improve visibility across the facility and maintain dependable support from a local security integrator with nationwide deployment capability.",
-      "heroImage": "https://images.unsplash.com/photo-1576402187878-974f70c890a5?auto=format&fit=crop&q=80&w=1200"
+      "heroImage": "https://images.unsplash.com/photo-1576402187878-974f70c890a5?auto=format&fit=crop&q=80&w=1200",
+      "cardDescriptions": {
+        "access": "Access control for Fairfax offices and government contractors, covering restricted and shared spaces.",
+        "video": "Video surveillance for Fairfax professional and healthcare offices, focused on entries and sensitive areas.",
+        "intrusion": "Intrusion and alarm systems for Fairfax offices, tuned to occupied and after-hours schedules.",
+        "cloud": "Cloud video management for Fairfax organizations that need secure remote review across multiple sites.",
+        "intercom": "Video intercom for Fairfax suite entrances and reception areas with controlled visitor access.",
+        "cabling": "Structured cabling and network work for Fairfax offices, coordinated around business hours.",
+        "monitoring": "Ongoing monitoring and maintenance for Fairfax commercial systems, backed by our local office."
+      },
+      "industries": [
+        "Government Contractors",
+        "Healthcare & Medical Offices",
+        "Professional & Legal Offices",
+        "Financial Services",
+        "Corporate Offices",
+        "IT & Data Facilities",
+        "Training & Education Centers",
+        "Commercial Property Owners"
+      ],
+      "whyChoose": [
+        "Fairfax office at 4000 Legato Road for fast on-site response",
+        "Familiarity with government contractor and healthcare office environments",
+        "Designs that work around occupied offices and business hours",
+        "Integration with existing IT, network and badge systems",
+        "Support for multi-site organizations with nationwide reach",
+        "Preventive maintenance and 24/7 technical support"
+      ],
+      "faqs": [
+        {
+          "q": "Do you have a local office near Fairfax?",
+          "a": "Yes. Our office is at 4000 Legato Road, Suite 1100 in Fairfax, which supports quick on-site response and local service."
+        },
+        {
+          "q": "Can you install without disrupting our office staff?",
+          "a": "We plan installation around business hours, including phased and after-hours work, to keep your operations running."
+        },
+        {
+          "q": "Do you support government contractors and healthcare offices?",
+          "a": "We work with contractors, medical offices and professional firms on access control, video and alarm systems built for their environments."
+        },
+        {
+          "q": "Can you tie security into our existing IT and badge systems?",
+          "a": "Yes. We integrate access control, video and intrusion with your network, directory and existing credentials where practical."
+        },
+        {
+          "q": "Do you support organizations with multiple locations?",
+          "a": "Yes. We can standardize and manage security across multiple sites from a centralized platform."
+        },
+        {
+          "q": "What ongoing support do you provide?",
+          "a": "We offer preventive maintenance, remote diagnostics and 24/7 technical support backed by our Fairfax office."
+        }
+      ]
     },
     {
       "slug": "commercial-security-systems-arlington-va",
@@ -28,7 +134,60 @@
       "seoDescription": "Deltacom Security installs video surveillance, access control and network infrastructure for Arlington, VA businesses. Request a site assessment.",
       "intro": "Deltacom Security supports Arlington's commercial offices, mixed-use properties, associations, healthcare facilities and government-related organizations with scalable physical security and network infrastructure. We design systems that help teams manage doors, credentials, cameras and alerts without adding unnecessary complexity.",
       "localContent": "For Arlington facilities with multiple tenants, shared parking or restricted operational areas, Deltacom can integrate access control, video surveillance and intercom functions into a centralized security environment supported by responsive regional service.",
-      "heroImage": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec?auto=format&fit=crop&q=80&w=1200"
+      "heroImage": "https://images.unsplash.com/photo-1577083552431-6e5fd01988ec?auto=format&fit=crop&q=80&w=1200",
+      "cardDescriptions": {
+        "access": "Access control for Arlington government-related and multi-tenant buildings, planned around each site's rules.",
+        "video": "Video surveillance for Arlington offices and institutional sites, documented for compliance review.",
+        "intrusion": "Intrusion and alarm systems for Arlington facilities, coordinated with life-safety requirements.",
+        "cloud": "Cloud video management for Arlington organizations that need centralized oversight across locations.",
+        "intercom": "Video intercom and entry control for Arlington shared entrances and restricted areas.",
+        "cabling": "Structured cabling for Arlington facilities, sequenced with construction and permitting schedules.",
+        "monitoring": "Monitoring and service for Arlington commercial systems, coordinated through permits and inspections."
+      },
+      "industries": [
+        "Government & Federal Facilities",
+        "Defense & Government Contractors",
+        "Associations & Nonprofits",
+        "Healthcare Facilities",
+        "Multi-Tenant Offices",
+        "Higher Education",
+        "Engineering & Professional Services",
+        "Facility Managers"
+      ],
+      "whyChoose": [
+        "Hands-on coordination with permits, inspections and life-safety requirements",
+        "Experience across government-related and multi-tenant facilities",
+        "Documentation and submittals prepared for compliance review",
+        "Scheduling that fits construction, GC and tenant timelines",
+        "Access, video and intrusion integrated into one platform",
+        "Regional service with 24/7 support available"
+      ],
+      "faqs": [
+        {
+          "q": "Do you handle permitting and inspections in Arlington?",
+          "a": "Yes. We prepare submittals and coordinate with the relevant authorities through the permitting and inspection process."
+        },
+        {
+          "q": "Can you coordinate life-safety and fire alarm work?",
+          "a": "We coordinate intrusion, access and video with life-safety requirements and the trades responsible for fire systems."
+        },
+        {
+          "q": "Do you work alongside general contractors?",
+          "a": "Yes. We sequence our work with GCs and other trades so security installation fits the construction schedule."
+        },
+        {
+          "q": "Can you support government-related facilities?",
+          "a": "We work in government-related and multi-tenant environments, providing the documentation and coordination those sites require."
+        },
+        {
+          "q": "Will the systems work in a multi-tenant building?",
+          "a": "Yes. We design shared-entrance and restricted-area access that respects building rules and individual tenant needs."
+        },
+        {
+          "q": "What does ongoing service look like?",
+          "a": "We provide maintenance, monitoring and 24/7 support, with regionally based technicians."
+        }
+      ]
     },
     {
       "slug": "commercial-security-systems-alexandria-va",
@@ -38,7 +197,60 @@
       "seoDescription": "Deltacom Security provides access control, surveillance and maintenance for Alexandria, VA commercial properties. Talk with a security specialist.",
       "intro": "Deltacom Security provides commercial security solutions for Alexandria offices, historic properties, hospitality facilities, retail locations, associations and multi-family communities. Each system is planned around the property's architecture, daily traffic, security risks and technology requirements.",
       "localContent": "Our team can modernize aging access control and surveillance systems while preserving compatible infrastructure where practical. We also coordinate video, intercom, intrusion and network components to give authorized personnel clearer control of the facility.",
-      "heroImage": "https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      "heroImage": "https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "cardDescriptions": {
+        "access": "Access control retrofits for Alexandria's historic and commercial buildings, preserving original features.",
+        "video": "Video surveillance for Alexandria offices and hospitality sites, with discreet camera placement.",
+        "intrusion": "Intrusion detection for Alexandria properties, installed around older structures and layouts.",
+        "cloud": "Cloud video management for Alexandria businesses modernizing legacy systems without a full replacement.",
+        "intercom": "Video intercom for Alexandria street-level entries and shared commercial entrances.",
+        "cabling": "Structured cabling for Alexandria buildings, routed to respect historic architecture.",
+        "monitoring": "Ongoing monitoring and maintenance for Alexandria properties, including legacy system support."
+      },
+      "industries": [
+        "Historic Commercial Properties",
+        "Boutique & Professional Offices",
+        "Hospitality & Hotels",
+        "Retail & Restaurants",
+        "Nonprofit Organizations",
+        "Associations",
+        "Mixed-Use Buildings",
+        "Historic Property Owners"
+      ],
+      "whyChoose": [
+        "Retrofits designed for historic and older commercial buildings",
+        "Cable routing and device placement that respect the architecture",
+        "Modernization that reuses compatible existing infrastructure",
+        "Discreet camera and intercom placement for street-level properties",
+        "Support for phased upgrades with minimal disruption",
+        "Local service and maintenance for Alexandria properties"
+      ],
+      "faqs": [
+        {
+          "q": "Can you retrofit security into an older or historic building?",
+          "a": "Yes. We plan cable routing and device placement to protect the building's character while modernizing the system."
+        },
+        {
+          "q": "Will installation damage original features?",
+          "a": "We take a careful approach, using existing pathways and discreet placement wherever possible to limit impact on the structure."
+        },
+        {
+          "q": "Can you modernize a legacy access control system?",
+          "a": "We can upgrade aging systems while reusing compatible infrastructure to control cost and downtime."
+        },
+        {
+          "q": "Do you install discreet cameras for street-level properties?",
+          "a": "Yes. Camera and intercom placement can be planned to cover entries and public areas without drawing attention."
+        },
+        {
+          "q": "Can work be phased to limit disruption?",
+          "a": "Yes. We can stage installations in phases so your property stays open and operating throughout the project."
+        },
+        {
+          "q": "Do you provide local maintenance?",
+          "a": "Yes. We offer maintenance and 24/7 support for Alexandria properties, including legacy systems."
+        }
+      ]
     },
     {
       "slug": "commercial-security-systems-woodbridge-va",
@@ -48,7 +260,60 @@
       "seoDescription": "Deltacom Security secures Woodbridge, VA retail, warehouse and office sites with video surveillance and access control. Request a commercial assessment.",
       "intro": "Deltacom Security protects Woodbridge warehouses, distribution facilities, retail centers, offices, healthcare locations and property-management portfolios. We design commercial systems that address employee and visitor entry, loading areas, parking lots, inventory protection and remote management.",
       "localContent": "Woodbridge organizations can use Deltacom for access control, surveillance, alarms, structured cabling and ongoing service under one coordinated security program. Solutions are designed to scale from a single building to multiple locations.",
-      "heroImage": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&q=80&w=1200"
+      "heroImage": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?auto=format&fit=crop&q=80&w=1200",
+      "cardDescriptions": {
+        "access": "Access control for Woodbridge warehouses and flex space, including loading and yard entry points.",
+        "video": "Video surveillance for Woodbridge retail and warehouse sites, with outdoor and long-range coverage.",
+        "intrusion": "Intrusion and alarm systems for Woodbridge facilities, covering after-hours and perimeter risk.",
+        "cloud": "Cloud video management for Woodbridge multi-site operations, monitored from one dashboard.",
+        "intercom": "Video intercom for Woodbridge retail entries and service doors with two-way verification.",
+        "cabling": "Structured cabling and network infrastructure for Woodbridge warehouse and retail builds.",
+        "monitoring": "Monitoring and service for Woodbridge commercial sites, covering high-traffic and outdoor areas."
+      },
+      "industries": [
+        "Warehouses & Distribution",
+        "Retail Centers",
+        "Flex & Light Industrial",
+        "Logistics & Fulfillment",
+        "Auto Dealerships & Service Centers",
+        "Construction & Trade Contractors",
+        "Industrial Parks",
+        "Local Offices"
+      ],
+      "whyChoose": [
+        "Coverage planned for loading docks, yards and parking areas",
+        "Durable, weather-rated equipment for outdoor and industrial sites",
+        "Multi-site rollouts managed under one program",
+        "Camera and access designs that work with limited on-site IT",
+        "Scalable from a single warehouse to a multi-location operation",
+        "Monitoring and service for high-traffic commercial sites"
+      ],
+      "faqs": [
+        {
+          "q": "Can you cover large outdoor areas and yards?",
+          "a": "Yes. We plan camera and detection coverage for lots, yards and loading areas using outdoor-rated equipment."
+        },
+        {
+          "q": "Do you secure loading docks and warehouse entries?",
+          "a": "We design access control and video around docks, service doors and high-traffic entry points."
+        },
+        {
+          "q": "Can you manage security across multiple facilities?",
+          "a": "Yes. We standardize systems across sites and manage them centrally for consistent policy and reporting."
+        },
+        {
+          "q": "We have limited on-site IT — can you help?",
+          "a": "Yes. We handle the network and cabling requirements so your team is not burdened with day-to-day device management."
+        },
+        {
+          "q": "Will equipment hold up in a warehouse environment?",
+          "a": "We specify durable, appropriately rated equipment for industrial and outdoor conditions."
+        },
+        {
+          "q": "What support is available after installation?",
+          "a": "We provide monitoring, maintenance and 24/7 technical support for commercial and industrial sites."
+        }
+      ]
     },
     {
       "slug": "commercial-security-systems-tysons-va",
@@ -58,7 +323,60 @@
       "seoDescription": "Deltacom Security integrates access control, cloud video and IT security for Tysons, VA corporate facilities. Schedule a commercial security review.",
       "intro": "Deltacom Security delivers enterprise-focused security for Tysons corporate offices, headquarters, technology companies, commercial properties and high-traffic retail environments. We integrate access control, cloud video, intercom, intrusion detection and network infrastructure around the needs of security, facilities and IT teams.",
       "localContent": "For organizations managing multiple floors, buildings or locations, Deltacom can provide centralized administration and a single-pane-of-glass approach while maintaining local device operation and a practical path for future expansion.",
-      "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200"
+      "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+      "cardDescriptions": {
+        "access": "Access control for Tysons corporate campuses, covering floors, tenant suites and shared amenities.",
+        "video": "Enterprise video surveillance for Tysons headquarters, with analytics and centralized review.",
+        "intrusion": "Intrusion detection for Tysons multi-floor and multi-tenant buildings, integrated with access control.",
+        "cloud": "Cloud video management for Tysons IT and security teams, with API and directory integration.",
+        "intercom": "Video intercom for Tysons lobbies, elevator banks and tenant entry points.",
+        "cabling": "Structured cabling and network infrastructure for Tysons towers and data-adjacent spaces.",
+        "monitoring": "Managed monitoring for Tysons properties, with escalation paths for facilities and security teams."
+      },
+      "industries": [
+        "Corporate Headquarters",
+        "Technology & Software Companies",
+        "Multi-Tenant Office Towers",
+        "Financial & Professional Services",
+        "Flex & Coworking Offices",
+        "IT & Data Infrastructure",
+        "Hospitality & Conference Centers",
+        "Mixed-Use Properties"
+      ],
+      "whyChoose": [
+        "Enterprise-scale design for headquarters and multi-floor campuses",
+        "Single-pane-of-glass administration across buildings and tenants",
+        "Open, API-friendly platforms that fit your IT and identity stack",
+        "Cloud video and access management for distributed security teams",
+        "Scalable architecture for growing technology companies",
+        "Certified integrators for complex, high-traffic environments"
+      ],
+      "faqs": [
+        {
+          "q": "Can you manage security across multiple floors and buildings in Tysons?",
+          "a": "Yes. We design centralized administration for multi-floor and multi-building campuses while keeping each site's devices operating independently."
+        },
+        {
+          "q": "How do you integrate with our IT and identity systems?",
+          "a": "We favor open, API-friendly platforms and can align access credentials with your directory and network environment."
+        },
+        {
+          "q": "Do you support cloud video and remote management?",
+          "a": "Yes. Cloud video management lets security and facilities teams review live and recorded footage from any location."
+        },
+        {
+          "q": "Can you scale as we add tenants or locations?",
+          "a": "Our designs are built to expand — adding doors, cameras or sites without rebuilding the core system."
+        },
+        {
+          "q": "Do you work with property managers and building engineers?",
+          "a": "Yes. We coordinate with property management and engineering teams on base-building standards, access and scheduling."
+        },
+        {
+          "q": "What support do you offer after installation?",
+          "a": "We provide monitoring, preventive maintenance and 24/7 technical support for enterprise environments."
+        }
+      ]
     }
   ]
 }

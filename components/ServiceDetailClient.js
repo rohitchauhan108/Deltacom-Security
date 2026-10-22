@@ -83,7 +83,7 @@ const ServiceDetailClient = ({ service, slug }) => {
         <div className="absolute inset-0">
           <Image
             src={service.heroImage}
-            alt={service.title}
+            alt=""
             fill
             sizes="100vw"
             className="object-cover"
@@ -99,7 +99,7 @@ const ServiceDetailClient = ({ service, slug }) => {
         <div className="hero-content  inset-0 flex items-center justify-center z-10">
           <div className="max-w-4xl mx-auto text-center px-6">
             <h1 className="text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-              {service.title}
+              {service.heroTitle || service.title}
             </h1>
             <p 
               className="text-2xl text-white/90 mb-8 leading-relaxed"

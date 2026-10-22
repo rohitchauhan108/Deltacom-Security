@@ -108,7 +108,7 @@ const Footer = () => {
               {/* Logo + Company Name on 1 Row */}
            
                 <div className="p-4 bg-white/5 border border-white/10 rounded-xl backdrop-blur-sm">
-                  <h3 className="text-xl font-bold text-white leading-tight">Deltacom Security, LLC</h3>
+                  <p className="text-xl font-bold text-white leading-tight">Deltacom Security, LLC</p>
                   <p className="text-gray-200 text-xs mt-0.5 leading-relaxed font-medium">
                     4000 Legato Road, Suite 1100, Fairfax, VA 22033
                   </p>
@@ -138,7 +138,7 @@ const Footer = () => {
 
             {/* Quick Links */}
             <div className="lg:col-span-2">
-              <h4 className="text-lg font-semibold text-white mb-6">Quick Links</h4>
+              <p className="text-lg font-semibold text-white mb-6">Quick Links</p>
               <ul className="space-y-3">
                 {quickLinks.map((link) => (
                   <li key={link.name}>
@@ -155,7 +155,7 @@ const Footer = () => {
 
             {/* Services */}
             <div className="lg:col-span-2">
-              <h4 className="text-lg font-semibold text-white mb-6">Our Services</h4>
+              <p className="text-lg font-semibold text-white mb-6">Our Services</p>
               <ul className="space-y-3">
                 {services.map((service) => (
                   <li key={service.name}>
@@ -172,7 +172,7 @@ const Footer = () => {
 
             {/* Areas We Serve */}
             <div className="lg:col-span-2">
-              <h4 className="text-lg font-semibold text-white mb-6">Areas We Serve</h4>
+              <p className="text-lg font-semibold text-white mb-6">Areas We Serve</p>
               <ul className="space-y-3">
                 {areasWeServe.map((area) => (
                   <li key={area.name}>
@@ -189,7 +189,7 @@ const Footer = () => {
 
             {/* Contact Info */}
             <div className="lg:col-span-3">
-              <h4 className="text-lg font-semibold text-white mb-6">Get In Touch</h4>
+              <p className="text-lg font-semibold text-white mb-6">Get In Touch</p>
               <div className="space-y-4">
 
                 {/* Address */}

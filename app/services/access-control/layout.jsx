@@ -82,8 +82,7 @@ export default function AccessControlLayout({ children }) {
             "@type": "BreadcrumbList",
             itemListElement: [
               { "@type": "ListItem", position: 1, name: "Home", item: `${siteUrl}/` },
-              { "@type": "ListItem", position: 2, name: "Services", item: `${siteUrl}/services/` },
-              { "@type": "ListItem", position: 3, name: "Access Control", item: pageUrl },
+              { "@type": "ListItem", position: 2, name: "Access Control", item: pageUrl },
             ],
           }),
         }}

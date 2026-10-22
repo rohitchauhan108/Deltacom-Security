@@ -194,9 +194,9 @@ const MobileAbout = () => {
                 <div className="absolute bottom-6 left-6 right-6 p-5 bg-white/90 backdrop-blur-md rounded-2xl border border-white/40 shadow-xl">
                   <div className="flex items-center justify-between">
                     <div>
-                      <h4 className="font-bold text-[#013a63] text-lg">
+                      <h3 className="font-bold text-[#013a63] text-lg">
                         Rapid Deployment Units
-                      </h4>
+                      </h3>
                       <p className="text-sm text-slate-600">
                         100% Self-Powered &amp; Managed
                       </p>

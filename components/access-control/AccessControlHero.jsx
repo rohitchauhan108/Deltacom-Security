@@ -54,7 +54,7 @@ const AccessControlHero = () => {
       <div className="absolute inset-0 z-0">
         <Image
           src="/images/new-serv.webp"
-          alt="Commercial Access Control Hero"
+          alt=""
           fill
           className="object-cover opacity-30"
           priority

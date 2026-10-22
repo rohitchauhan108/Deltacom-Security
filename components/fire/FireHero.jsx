@@ -38,7 +38,7 @@ const FireHero = () => {
       <div className="absolute inset-0">
         <Image
           src={HeroImage}
-          alt="Intrusion detection and fire protection equipment"
+          alt=""
           fill
           sizes="100vw"
           className="w-full h-full object-cover"

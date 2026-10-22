@@ -76,6 +76,10 @@ export default function LocationPage({ params }) {
       seoDescription={location.seoDescription}
       intro={location.intro}
       localContent={location.localContent}
+      cardDescriptions={location.cardDescriptions}
+      industries={location.industries}
+      whyChoose={location.whyChoose}
+      faqs={location.faqs}
     />
   );
 }

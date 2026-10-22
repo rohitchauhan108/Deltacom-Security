@@ -119,9 +119,9 @@ export default function FireProtectionLayout({ children }) {
                   "@type": "Offer",
                   itemOffered: {
                     "@type": "Service",
-                    name: "Fire Extinguisher Systems",
+                    name: "Fire Extinguisher Inspection",
                     description:
-                      "Portable fire extinguishers and fire hydrant systems for immediate fire response",
+                      "Portable fire extinguisher inspection and servicing for immediate fire response",
                   },
                 },
               ],
@@ -147,12 +147,6 @@ export default function FireProtectionLayout({ children }) {
               {
                 "@type": "ListItem",
                 position: 2,
-                name: "Services",
-                item: `${siteUrl}/services`,
-              },
-              {
-                "@type": "ListItem",
-                position: 3,
                 name: "Fire Protection Systems",
                 item: pageUrl,
               },
@@ -192,37 +186,6 @@ export default function FireProtectionLayout({ children }) {
             serviceArea: {
               "@type": "Place",
               name: "Washington, DC, Virginia and Maryland",
-            },
-            hasCredential: {
-              "@type": "EducationalOccupationalCredential",
-              name: "Fire Protection System Certification",
-            },
-          }),
-        }}
-      />
-
-      {/* Structured Data - Product/Service Features */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Product",
-            name: "Fire Protection Systems",
-            description:
-              "Complete fire protection solutions including detection, suppression, and emergency response systems",
-            brand: {
-              "@type": "Brand",
-              name: "Deltacom Security",
-            },
-            offers: {
-              "@type": "Offer",
-              availability: "https://schema.org/InStock",
-              priceCurrency: "USD",
-              seller: {
-                "@type": "Organization",
-                name: "Deltacom Security",
-              },
             },
           }),
         }}

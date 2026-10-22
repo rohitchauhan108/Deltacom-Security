@@ -44,14 +44,14 @@ const AccessControlCTA = () => {
           </div>
 
           <div className="bg-white rounded-3xl p-8 lg:p-12 text-[#013a63]">
-            <h3 className="text-2xl font-bold mb-8">Contact Information</h3>
+            <p className="text-2xl font-bold mb-8">Contact Information</p>
             <div className="space-y-6">
               <div className="flex items-start gap-4">
                 <div className="w-10 h-10 bg-blue-50 rounded-xl flex items-center justify-center shrink-0">
                   <Building2 className="w-5 h-5 text-blue-600" />
                 </div>
                 <div>
-                  <h4 className="font-bold">Deltacom Security, LLC</h4>
+                  <p className="font-bold">Deltacom Security, LLC</p>
                   <p className="text-slate-600">4000 Legato Road, Suite 1100</p>
                   <p className="text-slate-600">Fairfax, VA 22033</p>
                 </div>
@@ -61,7 +61,7 @@ const AccessControlCTA = () => {
                   <Phone className="w-5 h-5 text-blue-600" />
                 </div>
                 <div>
-                  <h4 className="font-bold">Phone</h4>
+                  <p className="font-bold">Phone</p>
                   <a href="tel:+17033451012" className="text-blue-600 hover:underline">703-345-1012</a>
                 </div>
               </div>
@@ -70,7 +70,7 @@ const AccessControlCTA = () => {
                   <Mail className="w-5 h-5 text-blue-600" />
                 </div>
                 <div>
-                  <h4 className="font-bold">Email</h4>
+                  <p className="font-bold">Email</p>
                   <a href="mailto:support@deltacomsecurity.com" className="text-blue-600 hover:underline">support@deltacomsecurity.com</a>
                 </div>
               </div>
@@ -79,7 +79,7 @@ const AccessControlCTA = () => {
                   <ShieldCheck className="w-5 h-5 text-blue-600" />
                 </div>
                 <div>
-                  <h4 className="font-bold">DCJS ID</h4>
+                  <p className="font-bold">DCJS ID</p>
                   <p className="text-slate-600">#11-15782</p>
                 </div>
               </div>

@@ -46,7 +46,7 @@ const AboutHero = () => {
       <div className="absolute inset-0">
         <Image
           src={HeroSectionImage}
-          alt="Deltacom Security commercial security team"
+          alt=""
           // loading="lazy"
           fill
           sizes="100vw"

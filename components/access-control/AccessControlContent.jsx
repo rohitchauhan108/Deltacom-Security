@@ -605,8 +605,8 @@ const AccessControlContent = () => {
             {[
               "Virginia DCJS ID #11-15782",
               "Licensed and insured",
-              "25+ years experience",
-              "Serving DC metro since 2013",
+              "25+ years of combined industry experience",
+              "Serving the DC metro area since 2017",
               "24/7/365 answering and dispatch",
               "Technology-neutral platforms",
               "Free security assessments"

@@ -30,8 +30,7 @@ export default function NotFound() {
           <ul className="flex flex-wrap justify-center gap-4 text-sm text-sky-700">
             <li><Link href="/services/access-control/">Commercial Access Control Systems</Link></li>
             <li><Link href="/services/video-surveillance/">Commercial Video Surveillance</Link></li>
-            <li><Link href="/services/fire-protection/">Intrusion &amp; Fire Protection</Link></li>
-            <li><Link href="/services/networking-solutions/">Structured Cabling &amp; Network Infrastructure</Link></li>
+            <li><Link href="/services/commercial-security/">Commercial Security Solutions</Link></li>
           </ul>
         </nav>
       </div>

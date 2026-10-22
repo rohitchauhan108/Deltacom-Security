@@ -281,7 +281,7 @@ const WhyChooseSection = () => {
                     <div className="relative h-64 lg:h-80 mb-6">
                       <Image
                         src={reasons[activeIndex].image}
-                        alt={reasons[activeIndex].title}
+                        alt=""
                         fill
                         sizes="(max-width: 1024px) 100vw, 640px"
                         className="object-contain transition-opacity duration-700"

@@ -8,44 +8,22 @@ const LocationTemplate = ({
   seoTitle,
   seoDescription,
   intro,
-  localContent
+  localContent,
+  cardDescriptions = {},
+  industries = [],
+  whyChoose = [],
+  faqs = []
 }) => {
-  const fullUrl = `https://deltacomsecurity.com/${slug}`;
+  const fullUrl = `https://deltacomsecurity.com/${slug}/`;
 
   const services = [
-    { name: 'Commercial Access Control Systems', href: '/services/access-control/', icon: 'key' },
-    { name: 'Commercial Video Surveillance', href: '/services/video-surveillance/', icon: 'camera' },
-    { name: 'Intrusion & Alarm Systems', href: '/services/fire-protection/', icon: 'shield' },
-    { name: 'Cloud Video Management', href: '/services/video-surveillance/', icon: 'cloud' },
-    { name: 'Access Control and Video Intercom Integration', href: '/services/access-control/', icon: 'bell' },
-    { name: 'Structured Cabling & Network Infrastructure', href: '/services/networking-solutions/', icon: 'cpu' },
-    { name: 'Commercial Security and Alarm Monitoring', href: '/services/commercial-security/', icon: 'wrench' }
-  ];
-
-  const industries = [
-    'Commercial Office Buildings',
-    'Government Facilities',
-    'Healthcare',
-    'Education',
-    'Retail',
-    'Industrial & Manufacturing',
-    'Warehouses & Distribution',
-    'Property Management',
-    'Financial Institutions',
-    'Hospitality',
-    'Religious Organizations',
-    'Multi-Family Communities'
-  ];
-
-  const faqs = [
-    { q: 'What commercial security systems do you install?', a: 'We design and install enterprise-grade access control, video surveillance, intrusion alarms, intercoms, and structured cabling tailored to commercial properties.' },
-    { q: 'How does access control work for multi-site businesses?', a: 'We provide centralized cloud-based management and scalable access policies so multiple locations can be managed from a single secure console.' },
-    { q: 'Can you integrate security with my existing IT infrastructure?', a: 'Yes — our team specializes in enterprise IT integration and structured cabling to ensure seamless operations between your security and network systems.' },
-    { q: 'What maintenance options are available?', a: 'We offer preventive maintenance plans, emergency response, and remote monitoring options to keep your systems healthy and functional 24/7.' },
-    { q: 'Do you offer proprietary or open platforms?', a: 'We focus on technology-neutral, open-platform solutions that offer better scalability and prevent vendor lock-in for our commercial clients.' },
-    { q: 'What types of video surveillance do you provide?', a: 'We offer advanced 4K Ultra HD cameras, AI-powered analytics, and cloud video management systems (VMS) for comprehensive site coverage.' },
-    { q: 'Are your alarm systems monitored?', a: 'Yes, we provide 24/7 professional monitoring for intrusion and fire alarm systems with rapid response capabilities.' },
-    { q: 'How scalable are your security solutions?', a: 'Our systems are designed to be highly scalable, whether you are securing a single local office or a multi-state enterprise infrastructure.' }
+    { key: 'access', name: 'Commercial Access Control Systems', href: '/services/access-control/', icon: 'key' },
+    { key: 'video', name: 'Commercial Video Surveillance', href: '/services/video-surveillance/', icon: 'camera' },
+    { key: 'intrusion', name: 'Intrusion & Alarm Systems', href: '/services/fire-protection/', icon: 'shield' },
+    { key: 'cloud', name: 'Cloud Video Management', href: '/services/video-surveillance/', icon: 'cloud' },
+    { key: 'intercom', name: 'Access Control and Video Intercom Integration', href: '/services/access-control/', icon: 'bell' },
+    { key: 'cabling', name: 'Structured Cabling & Network Infrastructure', href: '/services/networking-solutions/', icon: 'cpu' },
+    { key: 'monitoring', name: 'Commercial Security and Alarm Monitoring', href: '/services/commercial-security/', icon: 'wrench' }
   ];
 
   const jsonLd = {
@@ -86,7 +64,7 @@ const LocationTemplate = ({
             </div>
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight text-white">
-              Commercial Security Systems in <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-cyan-300">{city}</span>
+              Commercial Security Systems in <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-cyan-300">{city}, {state}</span>
             </h1>
 
             <p className="mt-6 text-base sm:text-lg text-gray-200 leading-relaxed">
@@ -181,7 +159,7 @@ const LocationTemplate = ({
                     </Link>
                   </h3>
                   <p className="mt-2 text-sm text-slate-600 leading-relaxed">
-                    Expert design, turnkey installation, and ongoing maintenance for commercial grade {s.name.toLowerCase()}.
+                    {cardDescriptions[s.key]}
                   </p>
                 </div>
                 <div className="mt-6 flex items-center text-xs font-semibold text-sky-600 group-hover:text-sky-700">
@@ -231,12 +209,9 @@ const LocationTemplate = ({
             <p className="text-xs text-slate-400 mt-1">Trusted security integrator across the DC Metro Area & Nationwide.</p>
             
             <ul className="mt-6 space-y-4 text-sm text-slate-300">
-              <SidebarFeature text="Single-Pane-of-Glass Platform Integration" />
-              <SidebarFeature text="Non-Proprietary / Technology-Neutral Options" />
-              <SidebarFeature text="Enterprise IT Level Expertise" />
-              <SidebarFeature text="24/7 Monitoring & Rapid Technical Support" />
-              <SidebarFeature text="Certified System Integrators & Installers" />
-              <SidebarFeature text="Scalable Architecture for Multi-Site Businesses" />
+              {whyChoose.map((item) => (
+                <SidebarFeature key={item} text={item} />
+              ))}
             </ul>
 
             <div className="mt-8 pt-6 border-t border-slate-800">
