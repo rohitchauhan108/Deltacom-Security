@@ -1,4 +1,14 @@
+
 RewriteEngine On
+
+# Serve the branded static export for unknown URLs.
+ErrorDocument 404 /404.html
+
+# Redirect legacy Contact Us URL to the current Contact page.
+RewriteRule ^contact-us/?$ https://deltacomsecurity.com/contact/ [R=301,L]
+
+# Normalize legacy Contact URL directly to the canonical URL.
+RewriteRule ^contact$ https://deltacomsecurity.com/contact/ [R=301,L,NE]
 
 # Force HTTPS and the canonical non-www host.
 RewriteCond %{HTTPS} off [OR]

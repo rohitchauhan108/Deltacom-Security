@@ -22,6 +22,9 @@ export default function NotFound() {
           <Link href="/" className="button button-primary rounded-lg bg-sky-700 px-5 py-3 font-semibold text-white transition hover:bg-sky-800">
             Return to Home
           </Link>
+          <Link href="/services/commercial-security/" className="button button-secondary rounded-lg border border-slate-300 px-5 py-3 font-semibold text-slate-800 transition hover:bg-slate-50">
+            Explore Services
+          </Link>
           <Link href="/contact/" className="button button-secondary rounded-lg border border-slate-300 px-5 py-3 font-semibold text-slate-800 transition hover:bg-slate-50">
             Contact Deltacom Security
           </Link>
